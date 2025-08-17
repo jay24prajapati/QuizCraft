@@ -36,6 +36,11 @@ To provide students and educators with an intelligent, scalable solution for cre
 - **💼 Infrastructure as Code** with complete Terraform automation
 
 ---
+## 🏛️ Architecture Diagram
+
+![Term_Project_Architecture](https://github.com/user-attachments/assets/2e455701-1c38-4000-95be-2811deef9529)
+
+> [Architecture Diagram Draw.io Link](https://drive.google.com/file/d/1ueNCgj5K-bHaTK2mOHDWrCyannckjvUe/view?usp=sharing)
 
 ## 🌟 Features
 
@@ -55,6 +60,8 @@ To provide students and educators with an intelligent, scalable solution for cre
 - **Customizable Difficulty**: Adjust quiz complexity based on student levels
 
 ---
+
+
 
 ## 🔗 Live Demo
 
