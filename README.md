@@ -251,24 +251,6 @@ terraform apply -auto-approve
 Deploy frontend (after initial infrastructure)
 ./deploy.sh
 
-text
-
-### Terraform Modules Structure
-
-terraform/
-├── main.tf # Root configuration
-├── modules/
-│ ├── frontend/ # S3 + CloudFront
-│ ├── auth/ # Cognito setup
-│ ├── api/ # API Gateway + Lambda permissions
-│ ├── lambda/ # Core Lambda functions
-│ ├── quiz_generator/ # Background processing
-│ ├── database/ # DynamoDB tables
-│ ├── storage/ # S3 buckets
-│ ├── queue/ # SQS configuration
-│ ├── notifications/ # SNS setup
-│ └── quicksight/ # Analytics dashboard
-
 ---
 
 ## 🛠️ Technology Stack
